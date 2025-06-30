@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: shilpidoc/wanderlust-frontend-beta:v1.4
+          image: shilpidoc/wanderlust-frontend-beta:v1.5
           ports:
             - containerPort: 5173
 ---
